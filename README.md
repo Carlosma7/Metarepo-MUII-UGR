@@ -21,12 +21,12 @@ Repositorio dedicado a los trabajos y ejercicios del Máster Profesional de Inge
 ## :asterisk: Optativas
 
 * [Administración de Sistemas y Seguridad (ASS)](https://github.com/Carlosma7/ASS).
-* [Gestión de Información en la Web (GIW)]().
+* [Gestión de Información en la Web (GIW)](https://github.com/Carlosma7/GIW).
 * [Sistemas Software Basados en la Web (SSBW)]().
 
 ## :star: TFM
 
-[GrandQuiz](https://github.com/Carlosma7/TFM-GrandQuiz): _Desarrollo de un sistema de juego social sobre unsistema de mensajería. Chatbot de Juego Social_.
+[GrandQuiz](https://github.com/Carlosma7/TFM-GrandQuiz): _Desarrollo de un sistema de juego social sobre un sistema de mensajería. Chatbot de Juego Social_.
 
 ## :man_technologist: Perfiles de compañeros que recomiendo
 
