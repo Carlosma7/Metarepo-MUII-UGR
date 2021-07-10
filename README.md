@@ -20,7 +20,7 @@ Repositorio dedicado a los trabajos y ejercicios del Máster Profesional de Inge
 
 ## :asterisk: Optativas
 
-* [Administración y Seguridad de Sistemas (ASS)]().
+* [Administración de Sistemas y Seguridad (ASS)](https://github.com/Carlosma7/ASS).
 * [Gestión de Información en la Web (GIW)]().
 * [Sistemas Software Basados en la Web (SSBW)]().
 
